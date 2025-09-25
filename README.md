@@ -1,9 +1,9 @@
 Myntra Data Analysis – Power BI Dashboard
-📌 Project Overview
+ !Project Overview
 
 This project presents an interactive Power BI dashboard for analyzing Myntra’s e-commerce data. The dashboard highlights sales performance, customer insights, and product trends, helping stakeholders make data-driven decisions.
 
-🎯 Objectives
+! Objectives
 
 Track overall sales performance with KPIs.
 
@@ -15,7 +15,7 @@ Understand customer demographics and purchase patterns.
 
 Provide visual insights for business growth strategies.
 
-🛠️ Tools & Technologies
+! Tools & Technologies
 
 Power BI Desktop – Data visualization and dashboard creation
 
